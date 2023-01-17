@@ -1,0 +1,1 @@
+/home/ubuntu/sample1/.sonarqube/out/0
