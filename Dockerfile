@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:7.0
+FROM mcr.microsoft.com/dotnet/sdk:7.0
 LABEL maintainer="sulabh kumar"
 
 ENV PLANTUML_VERSION=1.2018.5
